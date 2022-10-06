@@ -24,8 +24,8 @@
 
     <div id="navbarBasicExample" class="navbar-menu">
       <div class="navbar-start">
-        <router-link to="/" class="navbar-item"><p>Home</p></router-link>
-        <router-link to="/about" class="navbar-item"><p>Documentation</p></router-link>
+        <a href="/" class="navbar-item"><p>Home</p></a>
+        <a href="https://uaerman.dev" class="navbar-item"><p>About UAE</p></a>
       </div>
 
       <div class="navbar-end">
